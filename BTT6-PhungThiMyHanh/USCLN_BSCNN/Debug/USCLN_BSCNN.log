@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\BTH4-PhungThiMyHanh-16521597\USCLN_BSCNN\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  USCLN_BSCNN.vcxproj -> F:\BTH4-PhungThiMyHanh-16521597\Debug\USCLN_BSCNN.exe
